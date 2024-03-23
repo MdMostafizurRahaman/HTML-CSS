@@ -1,0 +1,14 @@
+##React start terminal command
+
+=> npm install -g create-react-app
+=> create-react-app my-app
+
+##To enable auto tag like html
+go to settings and make changes
+
+=> 
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  }
+}
