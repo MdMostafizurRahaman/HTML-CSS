@@ -3,6 +3,9 @@
 => npm install -g create-react-app
 => create-react-app my-app
 
+cd my-app
+npm start
+
 ##To enable auto tag like html
 go to settings and make changes
 
